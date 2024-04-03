@@ -19,7 +19,7 @@ key = ваш_ключ_от_rucaptcha
 session_count = количество_сессий_регистрации
 headless = True/False
 ```
-`session_count` - количество параллельных сессий регистрации.headless - флаг для запуска браузера в headless режиме (без GUI).
+`session_count` - количество параллельных сессий регистрации.
 
 `headless` - флаг для запуска браузера в headless режиме (без GUI).
 
