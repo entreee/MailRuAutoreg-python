@@ -1,0 +1,5 @@
+configparser==6.0.1
+attrs==23.2.0
+requests==2.31.0
+selenium==4.19.0
+loguru==0.7.2
